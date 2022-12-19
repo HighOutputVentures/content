@@ -1,2 +1,0 @@
-# Software Quality Analysis
-
