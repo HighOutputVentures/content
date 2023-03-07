@@ -12,3 +12,7 @@
     * [Software Requirements Analysis](capabilities/software-engineering-management/services/software-requirements-analysis.md)
     * [Software Development Management](capabilities/software-engineering-management/services/software-development-management.md)
     * [Team Management](capabilities/software-engineering-management/services/team-management.md)
+
+* [Software Quality Assurance](capabilities/software-quality-assurance/README.md)
+  * [About](capabilities/software-quality-assurance/about.md)
+  * [Overview](capabilities/software-quality-assurance/overview.md)
