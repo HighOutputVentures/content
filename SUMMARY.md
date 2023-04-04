@@ -7,6 +7,7 @@
 * [Software Engineering Management](capabilities/software-engineering-management/README.md)
   * [About](capabilities/software-engineering-management/about.md)
   * [Overview](capabilities/software-engineering-management/overview.md)
+  * [Software Development Workflow](capabilities/software-engineering-management/software-development-workflow.md)
 
 * [Software Quality Assurance](capabilities/software-quality-assurance/README.md)
   * [About](capabilities/software-quality-assurance/about.md)
